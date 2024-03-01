@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+body{
+	background-image: url(https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg);
+}
+#band{
+	background-color: #fff;
+	margin-inline:200px;
+	list-style: square;
+}
+.listItem{
+	padding:10px;
+	
+}
